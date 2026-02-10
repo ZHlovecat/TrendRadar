@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-11T02:05:43.671248+08:00",
-  "total_titles_processed": 410,
+  "generated_at": "2026-02-11T04:01:36.812313+08:00",
+  "total_titles_processed": 490,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "欧盟委员会声明：欧盟无条件批准谷歌公司320亿美元收购Wiz的网络安全交易。",
@@ -25,7 +25,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
         },
@@ -36,9 +36,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
+        },
+        {
+          "title": "据Business Insider：谷歌业务部门正在向部分员工提供自愿离职方案。",
+          "url": "https://flash.jin10.com/detail/20260211023723066800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时01分"
         },
         {
           "title": "谷歌母公司Alphabet发行创历史纪录的瑞郎债券，融资超过30亿瑞郎。 谷歌A跌幅扩大至2.7%，刷新日低。",
@@ -76,8 +87,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 02时05分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 04时01分]"
         },
         {
           "title": "美国零售销售不及预期强化降息前景，美股指集体高开，美国国债价格上涨，美元指数走低",
@@ -88,8 +99,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 02时05分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 04时01分]"
         },
         {
           "title": "美股三大期指小幅走高 经济数据即将扎堆公布 | 今夜看点",
@@ -100,8 +111,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 02时05分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 04时01分]"
         },
         {
           "title": "金十图示：2026年02月10日（周二）美股热门股票行情一览（美股盘中）",
@@ -110,7 +121,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
         },
@@ -121,7 +132,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
         }
@@ -138,7 +149,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
         },
@@ -156,6 +167,34 @@
       ]
     },
     {
+      "keyword_group": "coze 字节跳动 元宝 千问 豆包",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "春晚上豆包领红包赢科技好礼",
+          "url": "https://www.douyin.com/hot/2395858",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 02时05分]"
+        },
+        {
+          "title": "千问说30亿免单卡快领完了",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%83%E9%97%AE%E8%AF%B430%E4%BA%BF%E5%85%8D%E5%8D%95%E5%8D%A1%E5%BF%AB%E9%A2%86%E5%AE%8C%E4%BA%86%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时01分"
+        }
+      ]
+    },
+    {
       "keyword_group": "claude",
       "match_count": 1,
       "titles": [
@@ -167,8 +206,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 02时05分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 04时01分]"
         }
       ]
     },
@@ -184,25 +223,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 02时05分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "coze 字节跳动 元宝 千问 豆包",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "春晚上豆包领红包赢科技好礼",
-          "url": "https://www.douyin.com/hot/2395858",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 02时05分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 04时01分]"
         }
       ]
     }
