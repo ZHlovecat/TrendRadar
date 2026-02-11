@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-11T16:53:37.364318+08:00",
-  "total_titles_processed": 1239,
+  "generated_at": "2026-02-11T17:56:26.198123+08:00",
+  "total_titles_processed": 1347,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "科技股继续提振美股，标普逼近历史高位，美元跌破97关口，黄金重回5000美元，期银盘中涨近9%",
@@ -31,6 +31,18 @@
           "time_info": "[00时15分 ~ 06时43分]"
         },
         {
+          "title": "美股遍寻“下一个AI受害者”，周一保险经纪崩了、周二财富管理崩了，嘉信理财盘中跌超9%",
+          "url": "https://wallstreetcn.com/articles/3765438",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时32分 ~ 17时56分]"
+        },
+        {
           "title": "美股三大期指小幅走高 经济数据即将扎堆公布 | 今夜看点",
           "url": "https://www.cls.cn/detail/2286272",
           "source": "财联社热门",
@@ -41,18 +53,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时15分 ~ 10时32分]"
-        },
-        {
-          "title": "美股遍寻“下一个AI受害者”，周一保险经纪崩了、周二财富管理崩了，嘉信理财盘中跌超9%",
-          "url": "https://wallstreetcn.com/articles/3765438",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时32分 ~ 16时53分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 道指续创历史新高",
@@ -95,11 +95,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时04分 ~ 16时53分]"
+          "appearance_count": 5,
+          "time_info": "[13时04分 ~ 17时56分]"
         },
         {
           "title": "美股大类资产类ETF涨跌各异",
@@ -208,6 +209,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
+        },
+        {
+          "title": "四张图告诉你：缘何AI巨头在美股市场上纷纷哑火？",
+          "url": "https://www.cls.cn/detail/2286766",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时56分"
         },
         {
           "title": "周二（2月10日）美股尾盘，彭博电动汽车价格回报指数涨0.70%，报3616.33点。 亚太盘初至美股开盘持稳于3600点附近——维持微幅上涨状态，之后一度加速走高。",
@@ -347,6 +359,17 @@
           "time_info": "[00时15分 ~ 02时05分]"
         },
         {
+          "title": "腾讯是在把 AI 泛娱乐生态拱手让给字节跳动吗？",
+          "url": "https://www.zhihu.com/question/2004565156580049390",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时53分 ~ 17时56分]"
+        },
+        {
           "title": "豆包把拜年玩明白了",
           "url": "https://www.douyin.com/hot/2396354",
           "source": "抖音",
@@ -367,17 +390,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时05分"
-        },
-        {
-          "title": "腾讯是在把 AI 泛娱乐生态拱手让给字节跳动吗？",
-          "url": "https://www.zhihu.com/question/2004565156580049390",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时53分"
         }
       ]
     },
@@ -466,11 +478,12 @@
           "source": "澎湃新闻",
           "ranks": [
             12,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时04分 ~ 16时53分]"
+          "appearance_count": 5,
+          "time_info": "[13时04分 ~ 17时56分]"
         },
         {
           "title": "金价波动",
