@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-11T18:54:09.181262+08:00",
-  "total_titles_processed": 1446,
+  "generated_at": "2026-02-11T19:47:37.682698+08:00",
+  "total_titles_processed": 1528,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,19 @@
           "time_info": "[00时15分 ~ 06时43分]"
         },
         {
+          "title": "美股遍寻“下一个AI受害者”，周一保险经纪崩了、周二财富管理崩了，嘉信理财盘中跌超9%",
+          "url": "https://wallstreetcn.com/articles/3765438",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时32分 ~ 19时47分]"
+        },
+        {
           "title": "美国零售销售不及预期强化降息前景，美股指集体高开，美国国债价格上涨，美元指数走低",
           "url": "https://wallstreetcn.com/articles/3765361",
           "source": "华尔街见闻",
@@ -29,18 +42,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时15分 ~ 06时43分]"
-        },
-        {
-          "title": "美股遍寻“下一个AI受害者”，周一保险经纪崩了、周二财富管理崩了，嘉信理财盘中跌超9%",
-          "url": "https://wallstreetcn.com/articles/3765438",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时32分 ~ 18时54分]"
         },
         {
           "title": "美股三大期指小幅走高 经济数据即将扎堆公布 | 今夜看点",
@@ -55,6 +56,19 @@
           "time_info": "[00时15分 ~ 10时32分]"
         },
         {
+          "title": "“AI之战”输不得！如果美股Mag 7今年就把现金流“烧成负数”，这对市场意味着什么？",
+          "url": "https://wallstreetcn.com/articles/3765455",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时04分 ~ 19时47分]"
+        },
+        {
           "title": "美股收盘：三大指数涨跌不一 道指续创历史新高",
           "url": "https://www.cls.cn/detail/2286520",
           "source": "财联社热门",
@@ -66,19 +80,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[07时40分 ~ 15时04分]"
-        },
-        {
-          "title": "“AI之战”输不得！如果美股Mag 7今年就把现金流“烧成负数”，这对市场意味着什么？",
-          "url": "https://wallstreetcn.com/articles/3765455",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时04分 ~ 18时54分]"
         },
         {
           "title": "美泰（Mattel）美股盘后跌幅扩大至21%。",
@@ -101,6 +102,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
+        },
+        {
+          "title": "84 岁吉姆·罗杰斯清空美股，坚定持有金银铜称要留给后代，预言下次危机是其一生中最惨烈危机，如何解读？",
+          "url": "https://www.zhihu.com/question/2004662806780338439",
+          "source": "知乎",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时53分 ~ 19时47分]"
         },
         {
           "title": "美股大类资产类ETF涨跌各异",
@@ -139,17 +152,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时04分 ~ 15时04分]"
-        },
-        {
-          "title": "84 岁吉姆·罗杰斯清空美股，坚定持有金银铜称要留给后代，预言下次危机是其一生中最惨烈危机，如何解读？",
-          "url": "https://www.zhihu.com/question/2004662806780338439",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时53分 ~ 18时54分]"
         },
         {
           "title": "金十图示：2026年02月10日（周二）美股热门股票行情一览（美股收盘）",
@@ -347,6 +349,19 @@
           "time_info": "[04时01分 ~ 06时43分]"
         },
         {
+          "title": "腾讯是在把 AI 泛娱乐生态拱手让给字节跳动吗？",
+          "url": "https://www.zhihu.com/question/2004565156580049390",
+          "source": "知乎",
+          "ranks": [
+            11,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时53分 ~ 19时47分]"
+        },
+        {
           "title": "阿里AI战事再加码！千问支持买电影票，下一代模型亮相在即",
           "url": "https://www.cls.cn/detail/2286559",
           "source": "财联社热门",
@@ -357,18 +372,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时32分 ~ 15时04分]"
-        },
-        {
-          "title": "腾讯是在把 AI 泛娱乐生态拱手让给字节跳动吗？",
-          "url": "https://www.zhihu.com/question/2004565156580049390",
-          "source": "知乎",
-          "ranks": [
-            11,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时53分 ~ 18时54分]"
         },
         {
           "title": "春晚上豆包领红包赢科技好礼",
@@ -431,8 +434,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时04分 ~ 18时54分]"
+          "appearance_count": 8,
+          "time_info": "[13时04分 ~ 19时47分]"
         },
         {
           "title": "机构：收益率走低支撑金价反弹 市场静候非农报告出炉",
@@ -441,7 +444,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时54分"
         },
@@ -611,6 +614,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何评价 2 月 11 日上线的 DeepSeek 新模型？",
+          "url": "https://www.zhihu.com/question/2004971546536585165",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时47分"
         }
       ]
     },
