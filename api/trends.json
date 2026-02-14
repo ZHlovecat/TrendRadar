@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-15T02:38:31.720499+08:00",
-  "total_titles_processed": 357,
+  "generated_at": "2026-02-15T03:26:35.797661+08:00",
+  "total_titles_processed": 363,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 02时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 03时26分]"
         },
         {
           "title": "Seedance之后再放大招：字节跳动发布豆包大模型2.0，对标Gemini 3 和GPT 5.2",
@@ -28,8 +28,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 02时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 03时26分]"
         },
         {
           "title": "美国2月13日当周投资级债券市场销售403亿美元债券，周环比下滑35%（之前一周616亿美元）；发行人19家，之前一周22笔。 其中，谷歌母公司Alphabet inc.出售200亿美元，迪士尼供应40亿美元第二大。 2月份迄今，高评级债券供应1020亿美元，1月份同期供应1233亿美元。 2026年迄今，累计发行3299亿美元，2025年同期为2681亿美元。（彭博）",
@@ -39,8 +39,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 02时38分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 03时26分]"
         },
         {
           "title": "提醒：谷歌母公司Alphabet的首席执行官（CEO）桑达尔·皮查伊（Sundar Pichai）和OpenAI的CEOSam Altman将参加下周举办的“2026印度AI影响力峰会”。",
@@ -50,8 +50,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时33分 ~ 02时38分]"
+          "appearance_count": 4,
+          "time_info": "[00时33分 ~ 03时26分]"
         }
       ]
     },
@@ -67,8 +67,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 02时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 03时26分]"
         },
         {
           "title": "CPI温和但科技股疲软，美股指冲高回落，亚马逊九连跌，美债转涨，黄金重上5000关口",
@@ -76,11 +76,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 02时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 03时26分]"
         }
       ]
     },
@@ -96,8 +97,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 02时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 03时26分]"
         },
         {
           "title": "千问红包",
@@ -106,11 +107,12 @@
           "ranks": [
             2,
             7,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 02时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 03时26分]"
         }
       ]
     },
@@ -126,8 +128,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 02时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 03时26分]"
         }
       ]
     },
@@ -141,11 +143,12 @@
           "source": "今日头条",
           "ranks": [
             17,
-            10
+            10,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 02时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 03时26分]"
         }
       ]
     },
@@ -162,8 +165,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 02时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 03时26分]"
         }
       ]
     }
